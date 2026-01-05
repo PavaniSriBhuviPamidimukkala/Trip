@@ -1,3 +1,3 @@
-#MakeTripEasy
-#Hello! Welcome to MakeTripEasy 
-#How can I Help You?
+MakeTripEasy
+Hello! Welcome to MakeTripEasy 
+How can I Help You?
